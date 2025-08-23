@@ -1,2 +1,2 @@
 # MalakMagdyCv
-Online CV for Malak Magdy
+Online CV
